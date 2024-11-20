@@ -22,4 +22,9 @@
 <h2> Contact </h2>
 <div>
   <a href = "mailto: zarger546@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+  <h2> Also Check Out These Websites</h2>
+  <a href = "https://esc-key-projects.vercel.app/">Making Multple Projects which need esc key to work</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href = "https://agro-ratna.vercel.app">A group project In Which Me Alone Bulit The Website</a>
+  Note: Please only visit these websites on a laptop as they will look broken on a mobile phone and they esc key one dosen't even work on a mobile because you need a esc for it to work which is not in a mobile phone.
+  </div>
