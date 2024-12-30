@@ -1,30 +1,16 @@
-<h2><img align=center src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" width="20px"> Hi There</h2>
-<h2>Stats</h2>
-<div>
-  <img alt='stats' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shuhaab-coder&theme=tokyonight'>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shuhaab-coder&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
-  <br>
-</div>
-<div>
-  <h2>Skills</h2>
-  <div style="display: inline_block"><br>
-    <img height="40" align="center" alt="Shuhaab-Arduino" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" align="center" alt="Shuhaab-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" align="center" alt="Shuhaab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <img height="40" align="center" alt="Shuhaab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-</div>
-<br>
-<h2> Contact </h2>
-<div>
-  <a href = "mailto: zarger546@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <h2> Also Check Out These Websites</h2>
-  <a href = "https://esc-key-projects.vercel.app/">Making Multple Projects which need esc key to work</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = "https://agro-ratna.vercel.app">A group project In Which Me Alone Bulit The Website</a>
-  Note: Please only visit these websites on a laptop as they will look broken on a mobile phone and they esc key one dosen't even work on a mobile because you need a esc for it to work which is not in a mobile phone.
-  </div>
+<h1 align="center">Hi 👋, I'm Shuhaab</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuhaab-coder&show_icons=true&locale=en&layout=compact" alt="shuhaab-coder" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuhaab-coder&show_icons=true&locale=en" alt="shuhaab-coder" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuhaab-coder&" alt="shuhaab-coder" /></p>
